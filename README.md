@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @amirmm75
 - 👀 I’m interested in Flutter, Dart, Solidity.
-- 🌱 I’m currently learning Solidity.
-- 💞️ I’m looking to collaborate on making Dapps!
 - 📫 My ID is amirmm75 almost anywhere!
 
 <!---
